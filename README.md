@@ -9,7 +9,7 @@
 - :recycle: Changing career to coder.
 - :books: Student of Full Stack under Grupo Boticário - Desenvolve 2022.
 - 💬 In a few months you can ask me about: HTML, CSS, JavaScript and Python.
-- 🌈 Pronouns: He/She/They🏳
+- 🌈 Pronouns: He/She/They.
 - 🤔 Fun fact: Hydras (member of Cnidaria) can be immortal due to their Morphallaxis ability and other impressive regeneration techniques, even with a hurtful event they can regenerate any body part.
 #
 
