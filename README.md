@@ -2,7 +2,7 @@
 ### I'm Victor Hugo, welcome to my profile.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vhdmdls4@gmail.com)](mailto:vhdmdls4@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhugomdl/)](https://www.linkedin.com/in/victorhugomdl/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vhmdl/)](https://www.linkedin.com/in/vhmdl/)
 
 #### 🧬🔬:man_technologist: Undergraduate in System Engineering at Universidade Federal de Minas Gerais, lover of science and technology, coder (maybe after a while) and path of exile player in freetime.
 #
