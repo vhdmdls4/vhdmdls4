@@ -4,8 +4,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vhdmdls4@gmail.com)](mailto:vhdmdls4@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vhmdl/)](https://www.linkedin.com/in/vhmdl/)
 
-#### 🧬🔬:man_technologist: Undergraduate in System Engineering at Universidade Federal de Minas Gerais, lover of science and technology, coder (maybe after a while) and path of exile player in freetime.
+#### 🧬🔬:man_technologist: Undergraduate in System Engineering at Universidade Federal de Minas Gerais, lover of science and technology and software engineer (maybe after a while).
+
 #
+
 - :recycle: Changing career to coder.
 - 💬 In a few months you can ask me about: HTML, CSS, JavaScript and Python.
 - 🌈 Pronouns: He/She/They.
@@ -18,5 +20,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 #
 ## Until next time!!
-
-![]
