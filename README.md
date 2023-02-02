@@ -19,4 +19,4 @@
 #
 ## Until next time!!
 
-![](https://c.tenor.com/JWJRjZFUa_cAAAAC/one-piece-anime.gif)
+![]
