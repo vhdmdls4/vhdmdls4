@@ -8,7 +8,7 @@
 - 📫 How to reach me **vhduartelima@gmail.com**
 
 - :briefcase: Connect with me on LinkedIn: https://linkedin.com/in/vhmdl
-
+<br />
 <table align="center">
   <tr>
     <th>Almost two years of experience</th>
@@ -35,7 +35,7 @@
     </td>
   </tr>
 </table>
-
+<br />
 <hr />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhdmdls4&show_icons=true&locale=en" alt="vhdmdls4" width="100%"/></p>
