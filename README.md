@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **vhduartelima@gmail.com**
 
-- ⚡ Fun fact **Hydras (member of Cnidaria) can be immortal due to their Morphallaxis ability and other impressive regeneration techniques, even with a hurtful event they can regenerate any body part**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vhdmdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vhdmdl" height="30" width="40" /></a>
