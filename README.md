@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Hugo</h1>
 <h3 align="center">A FullStack Developer and undergraduate student in Systems Engineering at UFMG</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vhdmdls4&label=Profile%20views&color=0e75b6&style=flat" alt="vhdmdls4" /> </p>
-
 - 🌱 I’m currently learning **Spring Boot and Rails**
 
 - 👨‍💻 All of my projects are available at [https://vhmartins.net/](https://vhmartins.net/)
